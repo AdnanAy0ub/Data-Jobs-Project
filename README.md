@@ -49,14 +49,14 @@ The project demonstrates how raw job data can be transformed into **interactive 
 ---
 
 ## 🔹 Repository Structure
-'''Data-Jobs-Project/
+
+Data-Jobs-Project/
 ├─ Dashboard 1/           # First version (multi-page)
 ├─ Dashboard 2/           # Final version (single-page)
 ├─ Data/                  # Raw dataset (Download from : https://drive.google.com/drive/folders/1M-QyCgy0co2qLJbxdRAM3y3PK4Znrtkj?usp=drive_link)
 ├─ Project Images/        # Screenshots & visuals
 ├─ LICENSE/               # MIT License
-└─ README.md/             # Documentation'''
-
+└─ README.md/             # Documentation
 
 ---
 
