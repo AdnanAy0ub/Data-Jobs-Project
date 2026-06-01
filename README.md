@@ -20,12 +20,13 @@ The project demonstrates how raw job data can be transformed into **interactive 
 - **Dashboard 1**  
   - Multi‑page layout  
   - Exploratory design with detailed breakdowns  
-  - Focus on job counts, salaries, and skill distribution  
+  - Focus on job counts, salaries, and skill distribution
+  - Job Drill through 
 
 - **Dashboard 2 (Final Version)**  
   - Single‑page “mission control” design  
   - Cleaner visuals and recruiter‑friendly layout  
-  - Drill‑through navigation with bookmarks and slicers  
+  - DAX, Measures and Parameters included
 
 ---
 
