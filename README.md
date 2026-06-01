@@ -69,4 +69,19 @@ This project demonstrates the full lifecycle of data analytics in Power BI — f
 It serves as a portfolio piece showcasing how data can drive career decisions and business intelligence.
 
 
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+
+Hi there! I'm **Adnan Ayoub Dar** from **Srinagar J&K**. I’m a passionate Data Analyst, eager to upgrade my skills and learn new things day by day.
+Hope you enjoy this DataWarehouse Project and it may help you in one way or the other.
+
+Feel free to connect with me at my socials
+linkedin: www.linkedin.com/in/adnan-ayoub-dar-5ba528267
+instagram: [@adnanayoub_](https://www.instagram.com/adnanayoub_/)
+
+Thanks.
+
 
