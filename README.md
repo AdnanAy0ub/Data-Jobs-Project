@@ -21,12 +21,16 @@ The project demonstrates how raw job data can be transformed into **interactive 
   - Multi‑page layout  
   - Exploratory design with detailed breakdowns  
   - Focus on job counts, salaries, and skill distribution
-  - Job Drill through 
+  - Job Drill through
+  - <img width="1547" height="862" alt="Project_1_first" src="https://github.com/user-attachments/assets/5f1880f5-416a-4dee-9d03-b78a25328465" />
+<img width="1552" height="846" alt="Project_1_second_page" src="https://github.com/user-attachments/assets/54f628d8-d8fd-4366-ac34-0119bf8fb8a1" />
+
 
 - **Dashboard 2 (Final Version)**  
   - Single‑page “mission control” design  
   - Cleaner visuals and recruiter‑friendly layout  
   - DAX, Measures and Parameters included
+<img width="1617" height="861" alt="Project_2_image" src="https://github.com/user-attachments/assets/c8eb6acb-5143-4a3d-a4fc-6eff4696cf63" />
 
 ---
 
